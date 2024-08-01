@@ -1,10 +1,16 @@
 h1{
     color: darkblue;
     font-size: 3rem;
+    text-align: center;
   }
 body{
     background-color: bisque;
 }
 h2{
-  color:darkslateblue;
+  color:rgb(223, 218, 186);
+  text-align: center;
+}
+.flag
+{
+  background-color:brown;
 }
